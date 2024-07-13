@@ -11,8 +11,10 @@ Bachelor's of Arts in Biochemistry (August 2018 - December 2022)
 
 Coursework Completed: 
 
+* Unstructured and Distributed Data Modeling and Analysis 
 * Modern AI
 * Process Analytics
 * Structured Data Modeling and Analysis
 * Machine Learning in Python
 * Survey of Business Analytics
+  
