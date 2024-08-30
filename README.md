@@ -11,6 +11,7 @@ Bachelor's of Arts in Biochemistry (August 2018 - December 2022)
 
 Coursework Completed: 
 
+* Fundamentals of Data Analytics
 * Unstructured and Distributed Data Modeling and Analysis 
 * Modern AI
 * Process Analytics
