@@ -5,12 +5,14 @@ Patrick Xiao
 
 patrick.xiao@colorado.edu 
 
-Master's of Science in Business Analytics and Decision Science (July 2023 - May 2025)
+Master's of Science in Business Analytics | Decision Science and Healthcare Analytics tracks  (July 2023 - May 2025)
 
 Bachelor's of Arts in Biochemistry (August 2018 - December 2022) 
 
 Coursework Completed: 
 
+* Optimization Modeling
+* Advanced Data Analytics
 * Fundamentals of Data Analytics
 * Unstructured and Distributed Data Modeling and Analysis 
 * Modern AI
