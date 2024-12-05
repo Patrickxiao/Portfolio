@@ -3,7 +3,7 @@ _Analytics and Data Science Portfolio_
 
 Patrick Xiao
 
-patrick.xiao@colorado.edu 
+paxi9460@gmail.com
 
 Master's of Science in Business Analytics | Decision Science and Healthcare Analytics tracks  (July 2023 - May 2025)
 
