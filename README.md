@@ -11,6 +11,8 @@ Bachelor's of Arts in Biochemistry (August 2018 - December 2022)
 
 Coursework Completed: 
 
+* NLP in Healthcare Analytics 
+* Experimental Projects (Agile/Scrum)
 * Optimization Modeling
 * Advanced Data Analytics
 * Fundamentals of Data Analytics
